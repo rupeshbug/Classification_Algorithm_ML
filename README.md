@@ -5,7 +5,7 @@ Welcome to the Machine Learning Classification Projects repository! Here, you'll
 ### Projects Included:
 
 1. **Decision Tree Algorithm on Iris Dataset**:
-   - Explore the implementation of the Decision Tree algorithm using the Iris dataset, conveniently provided by the scikit-learn library. This project offers insights into decision-making processes and pattern recognition.
+   - Explore the implementation of the Decision Tree algorithm using the Iris dataset, conveniently provided by the scikit-learn library.
 
 2. **Spam Detection using Naive Bayes Classifier**:
    - Delve into the realm of spam detection with the utilization of the Naive Bayes Classifier. This project employs the SMS Spam Collection Dataset, sourced from Kaggle, to build an effective spam detection system.
